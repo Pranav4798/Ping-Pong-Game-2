@@ -6,6 +6,9 @@ Yet to add further functionality.
 
 
 Planned -
+
 Add ability to play vs AI
+
 Convert to a kivy app
+
 Harder AI with win conditions, score display, user history.
